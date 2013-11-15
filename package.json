@@ -4,6 +4,7 @@
   "author": "Phongphun Kijsanayothin",
   "dependencies": {
     "twit": "*",
-    "mongodb":"*"
+    "mongodb":"*",
+    "felix-couchdb":"*"
   }
 }
